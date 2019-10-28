@@ -1,0 +1,10 @@
+name: kaggle-datascience-survey
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+- jupyter=1.0.0
+# R packages.
+- r-base
+- r-irkernel
+- r-tidyverse
