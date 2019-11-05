@@ -18,6 +18,7 @@ All the projects from Datacamp I have successfully completed.
 7. [A Visual History of Nobel Prize Winners](https://github.com/vdbcyril/datacamp-projects/tree/master/R/A%20Visual%20History%20of%20Nobel%20Prize%20Winners)
 8. [Who Is Drunk and When in Ames, Iowa?](https://github.com/vdbcyril/datacamp-projects/tree/master/R/Who%20Is%20Drunk%20and%20When%20in%20Ames%2C%20Iowa)
 9. [Visualizing Inequalities in Life Expectancy](https://github.com/vdbcyril/datacamp-projects/tree/master/R/Visualizing%20Inequalities%20in%20Life%20Expectancy)
+10. [Clustering Heart Disease Patient Data](https://github.com/vdbcyril/datacamp-projects/tree/master/R/Clustering%20Heart%20Disease%20Patient%20Data)
 
 ## Getting set up
 
