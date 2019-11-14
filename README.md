@@ -7,6 +7,7 @@ All the projects from Datacamp I have successfully completed.
 1. [Exploring 67 years of LEGO](https://github.com/vdbcyril/datacamp-projects/tree/master/Python/Exploring%2067%20years%20of%20LEGO)
 2. [Naïve Bees: Image Loading and Processing](https://github.com/vdbcyril/datacamp-projects/tree/master/Python/Na%C3%AFve%20Bees%20-%20Image%20Loading%20and%20Processing)
 3. [Dr. Semmelweis and the Discovery of Handwashing](https://github.com/vdbcyril/datacamp-projects/tree/master/Python/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing)
+4. [ASL Recognition with Deep Learning](https://github.com/vdbcyril/datacamp-projects/tree/master/Python/ASL%20Recognition%20with%20Deep%20Learning)
 
 ## R Projects
 
