@@ -1,0 +1,10 @@
+name: asl-recognition-dl
+channels:
+  - conda-forge
+dependencies:
+- jupyter=1.0.0
+- pandas
+- matplotlib
+- numpy
+- tensorflow
+- keras
