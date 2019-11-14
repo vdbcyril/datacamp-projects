@@ -1,0 +1,7 @@
+name: dr-semmelweis-handwashing
+channels:
+  - conda-forge
+dependencies:
+- jupyter=1.0.0
+- pandas
+- matplotlib
