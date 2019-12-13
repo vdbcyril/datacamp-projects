@@ -1,0 +1,10 @@
+name: predict-naive-bees
+channels:
+  - conda-forge
+dependencies:
+- jupyter=1.0.0
+- pandas
+- numpy
+- matplotlib
+- pillow
+- scikit-learn
