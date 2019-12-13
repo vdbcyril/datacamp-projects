@@ -1,0 +1,11 @@
+name: dl-naive-bees
+channels:
+  - conda-forge
+dependencies:
+- jupyter=1.0.0
+- scikit-image
+- pandas
+- numpy
+- matplotlib
+- scikit-learn
+- keras
