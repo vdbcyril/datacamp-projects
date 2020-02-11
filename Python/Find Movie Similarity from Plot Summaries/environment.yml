@@ -1,0 +1,10 @@
+name: plot-summaries
+channels:
+  - conda-forge
+dependencies:
+- jupyter=1.0.0
+- pandas
+- scikit-learn
+- nltk
+- numpy
+- matplotlib
