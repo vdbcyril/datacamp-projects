@@ -11,6 +11,7 @@ All the projects from Datacamp I have successfully completed.
 5. [Naïve Bees - Predict Species from Images](https://github.com/vdbcyril/datacamp-projects/tree/master/Python/Na%C3%AFve%20Bees%20-%20Predict%20Species%20from%20Images)
 6. [Naïve Bees - Deep Learning with Images](https://github.com/vdbcyril/datacamp-projects/tree/master/Python/Na%C3%AFve%20Bees%20-%20Deep%20Learning%20with%20Images)
 7. [Predicting Credit Card Approvals](https://github.com/vdbcyril/datacamp-projects/tree/master/Python/Predicting%20Credit%20Card%20Approvals)
+8. [Find Movie Similarity from Plot Summaries](https://github.com/vdbcyril/datacamp-projects/tree/master/Python/Find%20Movie%20Similarity%20from%20Plot%20Summaries)
 
 ## R Projects
 
