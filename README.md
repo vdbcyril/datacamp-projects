@@ -13,6 +13,7 @@ All the projects from Datacamp I have successfully completed.
 7. [Predicting Credit Card Approvals](https://github.com/vdbcyril/datacamp-projects/tree/master/Python/Predicting%20Credit%20Card%20Approvals)
 8. [Find Movie Similarity from Plot Summaries](https://github.com/vdbcyril/datacamp-projects/tree/master/Python/Find%20Movie%20Similarity%20from%20Plot%20Summaries)
 9. [Mobile Games A/B Testing with Cookie Cats](https://github.com/vdbcyril/datacamp-projects/tree/master/Python/AB%20Testing%20with%20Cookie%20Cats)
+10. [TV, Halftime Shows, and the Big Game](https://github.com/vdbcyril/datacamp-projects/tree/master/Python/TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game)
 
 ## R Projects
 
