@@ -1,0 +1,7 @@
+name: ab-testing-cookie-cats
+channels:
+  - conda-forge
+dependencies:
+- jupyter=1.0.0
+- pandas
+- matplotlib
