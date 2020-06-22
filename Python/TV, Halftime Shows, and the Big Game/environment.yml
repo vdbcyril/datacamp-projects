@@ -1,0 +1,8 @@
+name: tv-superbowl
+channels:
+  - conda-forge
+dependencies:
+- jupyter=1.0.0
+- pandas
+- matplotlib
+- seaborn
